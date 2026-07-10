@@ -3,11 +3,12 @@
   <groupId>io.github.rtxyd</groupId>
   <artifactId>fallen-lib</artifactId>
   <versioning>
-    <latest>1.4.1-r</latest>
-    <release>1.4.1-r</release>
+    <latest>1.4.1-rhf</latest>
+    <release>1.4.1-rhf</release>
     <versions>
       <version>1.4.1-r</version>
+      <version>1.4.1-rhf</version>
     </versions>
-    <lastUpdated>20260710155105</lastUpdated>
+    <lastUpdated>20260710214040</lastUpdated>
   </versioning>
 </metadata>
